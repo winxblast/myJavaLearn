@@ -1,5 +1,7 @@
 #Tomcat publish data
-#Sat Jun 03 22:54:48 CST 2017
+#Sun Jun 04 21:58:23 CST 2017
+org.eclipse.jst.jee.server\:JspViewListDemo=C\:\\Program Files\\apache-tomcat-9.0.0.M21\\webapps\\JspViewListDemo
+org.eclipse.jst.jee.server\:MyFirstServletDemo=C\:\\Program Files\\apache-tomcat-9.0.0.M21\\webapps\\MyFirstServletDemo
 org.eclipse.jst.jee.server\:JspLoginDemo=C\:\\Program Files\\apache-tomcat-9.0.0.M21\\webapps\\JspLoginDemo
 org.eclipse.jst.jee.server\:JspLoginDemoByModel1=C\:\\Program Files\\apache-tomcat-9.0.0.M21\\webapps\\JspLoginDemoByModel1
 org.eclipse.jst.jee.server\:JspCommandAction=C\:\\Program Files\\apache-tomcat-9.0.0.M21\\webapps\\JspCommandAction

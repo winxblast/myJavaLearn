@@ -1,0 +1,8 @@
+package dao;
+
+//商品的业务逻辑类
+public class ItemsDAO {
+	
+	//获得所有商品的信息
+	
+}
