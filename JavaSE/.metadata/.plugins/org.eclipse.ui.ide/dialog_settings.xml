@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+		<item value="C:\myJavaLearn\JavaSE\offer"/>
+		<item value="C:\myJavaLearn\JavaSE"/>
+		<item value="C:\myJavaLearn"/>
+		<item value="C:\myJavaLearn\project_abstract"/>
+		<item value="C:\myJavaLearn\offer"/>
+	</list>
+	<section name="ResourceNavigator">
+		<item value="Aggregate for window 1491303796327" key="ResourceWorkingSetFilter.STORE_WORKING_SET"/>
+		<item value="1" key="ResourceViewer.STORE_SORT_TYPE"/>
+	</section>
+	<section name="NewWizardAction">
+		<item value="org.eclipse.jst.servlet.ui.project.facet.WebProjectWizard" key="NewWizardSelectionPage.STORE_SELECTED_ID"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+			<item value="org.eclipse.wst.web.ui"/>
+		</list>
+	</section>
+</section>

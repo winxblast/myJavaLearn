@@ -1,0 +1,11 @@
+#Tomcat publish data
+#Sat Jun 03 22:54:48 CST 2017
+org.eclipse.jst.jee.server\:JspLoginDemo=C\:\\Program Files\\apache-tomcat-9.0.0.M21\\webapps\\JspLoginDemo
+org.eclipse.jst.jee.server\:JspLoginDemoByModel1=C\:\\Program Files\\apache-tomcat-9.0.0.M21\\webapps\\JspLoginDemoByModel1
+org.eclipse.jst.jee.server\:JspCommandAction=C\:\\Program Files\\apache-tomcat-9.0.0.M21\\webapps\\JspCommandAction
+org.eclipse.jst.jee.server\:CookieDemo1=C\:\\Program Files\\apache-tomcat-9.0.0.M21\\webapps\\CookieDemo1
+org.eclipse.jst.jee.server\:JspLifeCycleDemo=C\:\\Program Files\\apache-tomcat-9.0.0.M21\\webapps\\JspLifeCycleDemo
+org.eclipse.jst.jee.server\:MyJavaWebApp=C\:\\Program Files\\apache-tomcat-9.0.0.M21\\webapps\\MyJavaWebApp
+org.eclipse.jst.jee.server\:JavabeansDemo1=C\:\\Program Files\\apache-tomcat-9.0.0.M21\\webapps\\JavabeansDemo1
+org.eclipse.jst.jee.server\:JspInnerObjectDemo=C\:\\Program Files\\apache-tomcat-9.0.0.M21\\webapps\\JspInnerObjectDemo
+org.eclipse.jst.jee.server\:JspSessionLifeCycleDemo=C\:\\Program Files\\apache-tomcat-9.0.0.M21\\webapps\\JspSessionLifeCycleDemo
